@@ -1,3 +1,6 @@
+// MazeWalker.pde
+// Created by Austin Poor
+
 class MazeWalker {
   int cX, cY, grid_size, n_visited;
   GridPoint[][] grid;

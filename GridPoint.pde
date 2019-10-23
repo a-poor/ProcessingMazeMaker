@@ -1,3 +1,6 @@
+// GridPoint.pde
+// Created by Austin Poor
+
 class GridPoint {
   int x, y;
   float sq_w;
